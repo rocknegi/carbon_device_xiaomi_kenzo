@@ -3,10 +3,10 @@ audio.offload.disable=1
 audio.offload.pcm.16bit.enable=false
 audio.offload.pcm.24bit.enable=false
 audio.offload.video=false
-persist.audio.fluence.audiorec=false
+persist.vendor.audio.fluence.audiorec=false
 persist.audio.fluence.spk.mono=true
-persist.audio.fluence.voicerec=true
-voice.voip.conc.disabled=true
+persist.vendor.audio.fluence.voicerec=true
+vendor.voice.voip.conc.disabled=true
 
 # Radio
 persist.radio.cs_srv_type=1
