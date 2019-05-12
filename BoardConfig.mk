@@ -39,7 +39,7 @@ TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 #BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
 
 # Enable real time lockscreen charging current values
-BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
+#BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
 
 
 # inherit from the proprietary version
